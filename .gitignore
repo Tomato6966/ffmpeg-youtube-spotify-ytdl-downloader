@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+out.js
+sea-prep.blob
+YoutubeDownloader.exe
+
+# External binaries
+ffmpeg.exe
+
+# Downloads
+downloads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Cookie files (sensitive)
+cookie.txt
+_cookie.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+temp-thumb.png
